@@ -1,10 +1,8 @@
 # hongbao
-USDT飞机红包扫雷/自动发包抢包/接龙搭建/哈希游戏/合作
-<div align="center"> <a href="https://github.com/kailong321200875/vue-element-plus-admin"> <img width="100" src="https://raw.githubusercontent.com/baohusanvip/hongbao/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202023-08-05%20001313%20(1).png"> </a> <br> <br>
-
+<h1>USDT飞机红包扫雷/自动发包抢包/接龙搭建/哈希游戏/合作</h1>
 
 <h1>Telegram电报红包扫雷机器人/可单控/群控/自动发包抢包/中英文切换/源码</h1>
-<h1>telegram/区块链/开发-具体进飞机：https://t.me/demathea</h1>
+<h1>Telegram机器人/区块链/开发-具体进飞机：https://t.me/demathea</h1>
 
 
 </div>
@@ -13,7 +11,7 @@ USDT飞机红包扫雷/自动发包抢包/接龙搭建/哈希游戏/合作
 
 ## 介绍
 
-✈️【爱拉币】- USDT飞机红包扫雷/接龙搭建/合作 ✈️
+✈️ USDT飞机红包扫雷/接龙搭建/合作 ✈️
 
 客服1：https://t.me/demathea
 
@@ -62,11 +60,6 @@ USDT飞机红包扫雷/自动发包抢包/接龙搭建/哈希游戏/合作
 
 4️⃣第三，如果当日充值人数没有10人，则合作失败，我撤出机器人，如果达到10人以上，则合作成功，收入55分成。
 
-🧧项目收入
-
-1️⃣您可以选择做抽水赚钱也可以选择杀猪赚钱
-
-2️⃣抽水则靠长期收益，稳定利润，杀猪则是利用单控来先给客户一点蝇头小利，然后吸引他继续充值，最后杀猪。
 
 ## 后台
 
@@ -75,10 +68,12 @@ USDT飞机红包扫雷/自动发包抢包/接龙搭建/哈希游戏/合作
 测试地址和帐号密码：请联系客服！
 
 ## 扫雷群截图
-<img src="">
+<img src="https://github.com/demathea/hongbao/blob/main/%E7%BA%A2%E5%8C%85%E6%A0%B7%E5%BC%8F.png">
 
 ## 后台截图
-<img src="">
+<img src="https://github.com/demathea/hongbao/blob/main/%E4%B8%BB%E9%A1%B5.png">
+<img src="https://github.com/demathea/hongbao/blob/main/%E5%8F%91%E5%8C%85%E7%AE%A1%E7%90%86.png">
+<img src="https://github.com/demathea/hongbao/blob/main/%E5%85%85%E5%80%BC%E7%AE%A1%E7%90%86.png">
 ## 许可证
 
 [MIT](./LICENSE)
